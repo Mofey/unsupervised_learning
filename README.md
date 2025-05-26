@@ -4,6 +4,7 @@ Algorithm: K-Means Clustering.
 Dataset: Sample customer data (customers.csv).  
   
 Files:  
+generate_data.py - Generates data in spreadsheet.  
 data_loader.py – Loads the dataset.  
 preprocess.py – Cleans and processes data.  
 model.py – Trains K-Means clustering model.  
